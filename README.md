@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cnarika
 - 👀 I’m interested in Cloud Engineering
-- 🌱 I’m currently completing Boot Camp for a post-grad diploma in Cloud Engineering.
-- 💞️ I’m looking to collaborate on Migration On-Prem to Cloud, etc..
+- 🌱 Through a Boot Camp, obtained Post-Grad Diploma in Cloud Engineering.
+- 💞️ I’m looking to collaborate on DevOps, Cyber Security ...
 - 📫 How to reach me on this forum
 
 <!---
